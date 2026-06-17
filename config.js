@@ -56,7 +56,7 @@ module.exports = {
     // =============================
     SITE_URL:
         process.env.SITE_URL ||
-        "https://https://zenitmd-mini-bot-rs15.onrender.com",
+        "https://zenit-sc-mini.onrender.com",
 
     PORT:
         process.env.PORT ||
