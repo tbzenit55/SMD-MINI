@@ -2,15 +2,15 @@
    ✦ ✦ ✦   S M D - M I N I   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : SMD-MiNi
-👤 Creator   : MRSHABAN
+📛 Project   : ZENIT-X-MINI
+👤 Creator   : ZENIT
 🌐 GitHub    : https://github.com/iTx-Sarkar
 📱 Contact   : https://t.me/@bandaheali
-📢 Channel   : https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s
+📢 Channel   : https://whatsapp.com/channel/0029Vb8GLHTEgGfI2C0m2Q3N
 🗓 Release   : 12 • Aprail • 2026 | 12:00 PM
 ─────────────────────────────────────────────────────────────
  
-//   ⭐ PROUDLY MADE IN PAKISTAN ⭐
+//   ⭐ TEAM BLANK SECOND OWNER ⭐
 */
 
 // Bnao Dost Aur Dushman Ko Dhnwan Tb Hoja Asli Ke Pehchan
