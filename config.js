@@ -56,7 +56,7 @@ module.exports = {
     // =============================
     SITE_URL:
         process.env.SITE_URL ||
-        "https://zenit-sc-mini.onrender.com",
+        "https://mr-shaban.vercel.app",
 
     PORT:
         process.env.PORT ||
