@@ -1,5 +1,5 @@
 {
-  "name": "smd-mini",
+  "name": "zenit-x--mini",
   "version": "1.0.0",
   "description": "SMD Mini WhatsApp Bot using Baileys and MongoDB",
   "type": "commonjs",
@@ -15,7 +15,7 @@
     "dev": "nodemon index.js"
   },
 
-  "author": "Team-Bandaheali",
+  "author": "Zenit-x-mini",
   "license": "MIT",
 
   "keywords": [
